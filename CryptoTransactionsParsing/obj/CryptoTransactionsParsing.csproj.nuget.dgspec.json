@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\TestProject\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj": {}
+    "D:\\Project\\Crypto\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj": {}
   },
   "projects": {
-    "D:\\Project\\TestProject\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj": {
+    "D:\\Project\\Crypto\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\TestProject\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj",
+        "projectUniqueName": "D:\\Project\\Crypto\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj",
         "projectName": "CryptoTransactionsParsing",
-        "projectPath": "D:\\Project\\TestProject\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj",
+        "projectPath": "D:\\Project\\Crypto\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj",
         "packagesPath": "C:\\Users\\Darkget\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\TestProject\\CryptoTransactionsParsing\\obj\\",
+        "outputPath": "D:\\Project\\Crypto\\CryptoTransactionsParsing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

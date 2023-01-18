@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M2bT0ELfZzRVEd/XdrZbPwBhEOvix3bVARLG3azI2gGcUG/dig9dwsWDieSJYNqmHmxlv5bvl4WPWyR0bZg7nQ==",
+  "dgSpecHash": "oHsRsX3AtEZKa4UUF87z1oYey12QQdz96m2sShJiTd0xnKqNdQeV5/3+tY7Xsoc9tXCY0l9bg2o8ox6HwgejUQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\TestProject\\TestProject\\TestProject.csproj",
+  "projectFilePath": "D:\\Project\\Crypto\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darkget\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Darkget\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",

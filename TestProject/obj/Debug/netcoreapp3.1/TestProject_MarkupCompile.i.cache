@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Project\TestProject\TestProject\obj\Debug\netcoreapp3.1\
+D:\Project\Crypto\TestProject\obj\Debug\netcoreapp3.1\
 TestProject
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\Project\TestProject\TestProject\App.xaml
+D:\Project\Crypto\TestProject\App.xaml
 11407045341
 
 5-1260108868
-195-1516642873
+1952060061964
 MainWindow.xaml;
 
-True
+False
 

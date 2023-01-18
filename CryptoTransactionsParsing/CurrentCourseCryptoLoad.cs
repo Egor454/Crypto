@@ -9,7 +9,7 @@ namespace CryptoTransactionsParsing
 {
     internal class CurrentCourseCryptoLoad
     {
-        /* Не стал реализовыавать async подключение. В данной задаче я думаю это лишнее. А так в целом можно было.*/
+        /* Не стал реализовывать async подключение. В данной задаче я думаю это лишнее. А так в целом можно было.*/
         internal double LoadCourse(string nameCourse)
         {
             var sql = "SELECT last_price FROM currencies_crypto WHERE name = @name Order By date_update Desc limit 1";
