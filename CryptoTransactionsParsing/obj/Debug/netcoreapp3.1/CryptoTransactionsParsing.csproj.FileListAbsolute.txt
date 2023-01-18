@@ -1,0 +1,10 @@
+D:\Project\TestProject\CryptoTransactionsParsing\bin\Debug\netcoreapp3.1\CryptoTransactionsParsing.deps.json
+D:\Project\TestProject\CryptoTransactionsParsing\bin\Debug\netcoreapp3.1\CryptoTransactionsParsing.dll
+D:\Project\TestProject\CryptoTransactionsParsing\bin\Debug\netcoreapp3.1\CryptoTransactionsParsing.pdb
+D:\Project\TestProject\CryptoTransactionsParsing\obj\Debug\netcoreapp3.1\CryptoTransactionsParsing.csproj.AssemblyReference.cache
+D:\Project\TestProject\CryptoTransactionsParsing\obj\Debug\netcoreapp3.1\CryptoTransactionsParsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestProject\CryptoTransactionsParsing\obj\Debug\netcoreapp3.1\CryptoTransactionsParsing.AssemblyInfoInputs.cache
+D:\Project\TestProject\CryptoTransactionsParsing\obj\Debug\netcoreapp3.1\CryptoTransactionsParsing.AssemblyInfo.cs
+D:\Project\TestProject\CryptoTransactionsParsing\obj\Debug\netcoreapp3.1\CryptoTransactionsParsing.csproj.CoreCompileInputs.cache
+D:\Project\TestProject\CryptoTransactionsParsing\obj\Debug\netcoreapp3.1\CryptoTransactionsParsing.dll
+D:\Project\TestProject\CryptoTransactionsParsing\obj\Debug\netcoreapp3.1\CryptoTransactionsParsing.pdb

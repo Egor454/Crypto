@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+wZDA/bhxjF3Tye/i2/bhwpaQ+PIXRxZ9oj6bePMBEAdVcfZop8Q5I6bjmVpHuSSKCetw28WFxmsg3zG9R87w==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\TestProject\\CryptoTransactionsParsing\\CryptoTransactionsParsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darkget\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darkget\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\Darkget\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Darkget\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darkget\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Darkget\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darkget\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
