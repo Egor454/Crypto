@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Text.Json;
 using Npgsql;
 using System.Data;
+using System.Threading.Tasks;
 
 namespace CryptoTransactionsParsing
 {
@@ -15,7 +16,7 @@ namespace CryptoTransactionsParsing
         private HttpClient httpClient = new HttpClient();
         private double lastDeal;
 
-        internal async void LoadCryptoDeal(string typeCrypto)
+        internal async Task LoadCryptoDeal(string typeCrypto)
         {
 
             StringBuilder stringBuilder = new StringBuilder(addres);
@@ -37,8 +38,7 @@ namespace CryptoTransactionsParsing
 
 
         }
-        /* Хотел реализовать вставку не в таком виде. А сразу несколько строк сразу. Но количество валют не статично, и как бы не понятно как так можно сделать.
-        Поэтому реализовал не много по другому*/
+
         private void SendDataToDatabase(string name, double price, DateTime dateNow)
         {
             var sql = "INSERT INTO currencies_crypto(name, last_price,date_update) VALUES(@name, @price ,@dateNow)";

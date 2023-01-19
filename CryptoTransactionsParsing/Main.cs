@@ -29,7 +29,7 @@ namespace CryptoTransactionsParsing
         {
             foreach (var typeCrypto in TypeCryptoDeal.typeCrypto)
             {
-                cryptoParsing.LoadCryptoDeal(typeCrypto);
+                _ = cryptoParsing.LoadCryptoDeal(typeCrypto);
             }
         }
 
